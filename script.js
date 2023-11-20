@@ -11,15 +11,15 @@
 // let firstName = "Joel";
 // console.log("How are you " + firstName + "?");
 
-// let firstName = "Alenere";
-// let visitor = "David";
-// let gender = "she";
-// let food = "coffee";
+let firstName = "Alenere";
+let visitor = "David";
+let gender = "she";
+let food = "coffee";
 
-// console.log (firstName + ", the friendly neighbor, waved at " +
-// visitor + " as " +  gender + " walked by " + visitor + "'s house. " +
-// visitor + " smiled back and invited " +
-// firstName + " in a cup of " + food + ".");
+console.log (firstName + ", the friendly neighbor, waved at " +
+visitor + " as " +  gender + " walked by " + visitor + "'s house. " +
+visitor + " smiled back and invited " +
+firstName + " in a cup of " + food + ".");
  
 
 // console.log("How are you " + firstName + "?");
